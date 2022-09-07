@@ -1,4 +1,4 @@
-# DataQuest - Guided Projects
+# DataQuest - Guided Project 1.
 First guided project for DataQuest's Data Analyst in Python course. 
 
 ## Profitable App Profiles for the App Store and Google Play Markets
